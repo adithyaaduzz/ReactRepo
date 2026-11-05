@@ -1,0 +1,26 @@
+
+body {
+    background-color: #f4f6f9;
+}
+
+.task-list {
+    padding-left: 20px;
+}
+
+.task-list li {
+    padding: 10px;
+    margin-bottom: 8px;
+    background-color: #f1f1f1;
+    border-radius: 5px;
+}
+
+.message {
+    margin-top: 15px;
+    font-weight: bold;
+    color: green;
+}
+
+h1 {
+    padding: 15px;
+    border-radius: 5px;
+}
