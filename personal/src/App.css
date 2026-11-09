@@ -1,0 +1,20 @@
+.nav-link {
+    color: white;
+    margin-right: 15px;
+    font-size: 18px;
+}
+
+.nav-link.active {
+    color: blue;
+    font-weight: bold;
+}
+
+.card {
+    max-width: 600px;
+    margin: auto;
+}
+
+h1 {
+    padding: 10px;
+    border-radius: 5px;
+}
